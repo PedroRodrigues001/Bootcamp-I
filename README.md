@@ -1,5 +1,5 @@
 # Bootcamp-I
-Meu perfil
+My profile
 👋 Hi, I’m Pedro Rodrigues.
 👀 I’m interested in computation and programming.
 🌱 I’m currently learning web development and web design.
